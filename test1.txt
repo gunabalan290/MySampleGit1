@@ -1,1 +1,3 @@
 Welcome to study GIT
+GIT tool is Version Controll System
+It is designed to handle minor or major projects with high speed and efficiency
